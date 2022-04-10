@@ -1,0 +1,1 @@
+https://flight-fare-3296.herokuapp.com/predict
